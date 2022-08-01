@@ -1,5 +1,5 @@
-let nav = document.querySelector('.nav');
+let nav = document.querySelector(".nav");
 
-document.addEventListener('DOMContentLoaded', () => {
-    nav.classList.add('loaded')
+document.addEventListener("DOMContentLoaded", () => {
+  nav.classList.add("loaded");
 });
