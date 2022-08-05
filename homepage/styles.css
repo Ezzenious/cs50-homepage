@@ -1,6 +1,6 @@
 body.onett {
     height: 100vh;
-    background: url(./img/Onett.png) no-repeat center/cover;
+    background: url(./img/Onett.png) no-repeat center bottom/cover;
 }
 
 .nav {
